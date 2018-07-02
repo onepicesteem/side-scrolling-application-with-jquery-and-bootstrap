@@ -1,0 +1,7 @@
+.all > .myslide{
+    display:none;
+}
+
+.all > .myslide.active{
+    display:block;
+}
